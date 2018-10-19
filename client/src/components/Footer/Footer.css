@@ -1,0 +1,25 @@
+.footer {
+  min-height: 75px;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  text-align: center;
+  padding: 5px;
+}
+
+.footer span {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 0px;
+  margin: auto;
+  color: #ffffff;
+}
+
+.social-icon {
+  margin-left: 5px;
+  margin-right: 5px;
+}

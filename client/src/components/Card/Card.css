@@ -1,0 +1,15 @@
+.profileText{
+  font-size: 20px;
+}
+
+@media (max-width: 768px) {
+  img {
+    width: 100px;
+  }
+  .profileText{
+    font-size: 13px;
+    text-align: center;
+    line-height: 6px;
+  }
+
+}
